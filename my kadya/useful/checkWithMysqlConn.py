@@ -15,7 +15,7 @@ import jaccardSimilarity
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Ja@44330022",
+    password="",
     database="files"
 )
 
